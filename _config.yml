@@ -21,7 +21,7 @@ repository               : "yiren6/yiren6.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile4.png"
   name             : "Yiren Shen"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate at Stanford AeroAstro. My research focuses on multi-objective optimization and applied surrogate modeling"
