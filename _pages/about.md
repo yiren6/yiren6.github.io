@@ -17,9 +17,9 @@ Yiren Shen is a current  Ph.D. Candidate in the Department of Aeronautics and As
 * Data assimilation, AI4Science.
 
 # Education
-Ph.D., Aeronautics and Astronautics, Stanford University, 2022-Present.
-M.S., Aeronautics and Astronautics, Stanford University, 2019.
-B.S., Mechanical Engineering, Cornell University, 2017.
+* Ph.D., Aeronautics and Astronautics, Stanford University, 2022-Present.
+* M.S., Aeronautics and Astronautics, Stanford University, 2019.
+* B.S., Mechanical Engineering, Cornell University, 2017.
 
 
 
