@@ -9,37 +9,45 @@ redirect_from:
 
 {% include base_path %}
 
+Summary
+======
+Current Ph.D. Candidate in the Department of Aeronautics and Astronautics at Stanford University under the advising of Professor Juan J. Alonso. He holds a M.S. in Aeronautics and Astronautics from Stanford and a B.S. in Mechanical Engineering from Cornell University. His research focuses on design space exploration, multi-physics analysis and optimization, physics-informed machine learning (AI4Science), data mining, and applied surrogate modeling. He works on the development of the SUAVE and SU2 open-source software. 
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Aeronautics and Astronautics, Stanford University, 2026 (expected)
+* M.S. in Aeronautics and Astronautics, Stanford University, 2024
+* B.S. in Mechanical Engineering, Cornell University, 2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2022 - 2024: Graduate Research Assistant
+  * Stanford University, Aerospace Design Lab
+  * Research focuses on physics‑informed machine learning, applied surrogate modeling, AI driven design space exploration, and multi‑fidelity analysis methods.
+  * Supervisor: Prof. Juan J. Alonso
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2023: Research Intern
+  * SRI International
+  * Composed one Finite Element Analysis code for structural simulation using MITC4 Shell element.
+  * Integrated the FEA code with topology optimization heuristic to enable reinforcement fiber layout optimization for engineering design optimization applications.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* 2020 - 2021: Visting Scholar
+  * Zhejiang University, Laboratory of Flexible Sensors and Intelligent Interaction
+  * Performed conformal mapping simulation for hyper-elastic soft sensor deployment on complex robot arm.
+
+* Summer 2018: R&D Engineer
+  * Honda Aircraft Company, Department of Advanced Research
+  * Evaluated one stability augmentation system, determined voting thresholds to ensure low false alarm rate.
+  * Improved the efficiency (+10\%) of data extraction and analysis by introducing a plotting framework.
+  * Investigated flight incidences, analyzed data and potential scenarios in offline and Hardware-In-Loop simulations.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computer Languages: Python, Cpp, Matlab
+* Physics Modeling and Simulation
+  * CFD, FEA
+  * Numerical Analysis
+* Engineering Basics
 
 Publications
 ======
@@ -61,4 +69,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* At your service
