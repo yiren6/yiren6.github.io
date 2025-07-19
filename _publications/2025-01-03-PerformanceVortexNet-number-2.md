@@ -1,7 +1,7 @@
 ---
 title: "Performance Evaluation of a Graph Neural Network-Augmented Multi-Fidelity Workflow for Predicting Aerodynamic Coefficients on Delta Wings at Low Speed"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2025-01-03-PerformanceVortexNet-number-2
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2025-01-03
