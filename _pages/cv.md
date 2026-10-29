@@ -11,43 +11,70 @@ redirect_from:
 
 Summary
 ======
-Current Ph.D. Candidate in the Department of Aeronautics and Astronautics at Stanford University under the advising of Professor Juan J. Alonso. He holds a M.S. in Aeronautics and Astronautics from Stanford and a B.S. in Mechanical Engineering from Cornell University. His research focuses on design space exploration, multi-physics analysis and optimization, physics-informed machine learning (AI4Science), data mining, and applied surrogate modeling. He works on the development of the SUAVE and SU2 open-source software. 
+Yiren Shen is a postdoctoral researcher with the NSF AI Institute in Dynamic Systems at the University of Washington, working at the intersection of aerospace design, physics-informed machine learning, surrogate modeling, and multi-fidelity optimization. He completed his Ph.D. in Aeronautics and Astronautics at Stanford University under Professor Juan J. Alonso, and he holds an M.S. in Aeronautics and Astronautics from Stanford and a B.S. in Mechanical Engineering from Cornell University. His work focuses on AI-enabled design automation, data-driven aerodynamic surrogate modeling, uncertainty-aware optimization, and sustainable unconventional vehicle development.
+
+Download CV PDF
+======
+* [Download Yiren Shen CV (October 2026)](/files/Yiren_Shen_CV_OCT.pdf)
 
 Education
 ======
-* Ph.D in Aeronautics and Astronautics, Stanford University, 2026 (expected)
-* M.S. in Aeronautics and Astronautics, Stanford University, 2024
-* B.S. in Mechanical Engineering, Cornell University, 2017
+* Ph.D. in Aeronautics and Astronautics, Stanford University, 2022-2026
+* M.S. in Aeronautics and Astronautics, Stanford University, 2017-2019 (conferred 2024)
+* B.S. in Mechanical Engineering, Cornell University, 2014-2017
+* Freshman Coursework in Aerospace Engineering, University of Illinois Urbana-Champaign, 2013-2014
 
 Work experience
 ======
-* 2022 - 2024: Graduate Research Assistant
+* Oct. 2026 - present: Postdoctoral Researcher
+  * University of Washington, NSF AI Institute in Dynamic Systems
+  * Developing state-of-the-art benchmarks for coupled aerodynamic, structural, and control optimization.
+
+* Jul. 2026 - Sep. 2026: Postdoctoral Researcher
   * Stanford University, Aerospace Design Lab
-  * Research focuses on physics‑informed machine learning, applied surrogate modeling, AI driven design space exploration, and multi‑fidelity analysis methods.
-  * Supervisor: Prof. Juan J. Alonso
+  * Metroplex Overflight Noise Analysis (MONA) departure noise analyst.
 
-* Summer 2023: Research Intern
-  * SRI International
-  * Composed one Finite Element Analysis code for structural simulation using MITC4 Shell element.
-  * Integrated the FEA code with topology optimization heuristic to enable reinforcement fiber layout optimization for engineering design optimization applications.
+* Jan. 2022 - Jun. 2026: Doctoral Researcher
+  * Stanford University, Aerospace Design Lab
+  * Advisor: Prof. Juan J. Alonso
+  * Research focuses on physics-informed machine learning, applied surrogate modeling, AI-driven design space exploration, automated design tools, and multi-fidelity analysis methods for sustainable unconventional vehicle development.
+  * Developed VortexNet, a graph neural network-based multi-fidelity surrogate model that augments low-fidelity aerodynamic tools with high-fidelity CFD field data.
+  * Established empirical scaling laws for GNN-based aerodynamic field surrogates and released a multi-fidelity aerodynamic dataset.
+  * Demonstrated the workflow in a stability-constrained aerodynamic shape optimization problem.
+  * Contributor to the SCALOS project for supersonic configurations at low speeds, with emphasis on surrogate modeling, SST design space exploration, and planform optimization.
 
-* 2020 - 2021: Visting Scholar
+* Jun. 2025 - Sep. 2025: Research Fellow
+  * GE Aerospace Research, Probabilistic Design and Material Informatics
+  * Proposed and developed a large-eddy simulation flow super-resolution program for improving low-order LES fields to high-order equivalents with credible integrated quantities of interest.
+  * Surveyed state-of-the-art physics-informed machine learning methods and integrated selected approaches into GE property software workflows.
+
+* Jun. 2023 - Sep. 2023: Research Intern
+  * SRI International, Intelligent Systems Lab
+  * Composed a finite element analysis program for structural simulation using MITC4 shell elements.
+  * Integrated the FEA code with topology optimization heuristics for reinforcement fiber layout optimization applications.
+
+* Aug. 2020 - Oct. 2021: Visiting Scholar
   * Zhejiang University, Laboratory of Flexible Sensors and Intelligent Interaction
-  * Performed conformal mapping simulation for hyper-elastic soft sensor deployment on complex robot arm.
+  * Performed conformal mapping simulation for hyper-elastic soft sensor deployment on complex robot arm surfaces.
+  * Proposed, designed, and simulated a soft hair-like flow sensor for small drone airspeed sensing.
+
+* Jan. 2015 - Jan. 2017: Research Assistant
+  * Cornell University, Thermal Science Lab
+  * Advised by Prof. C. Thomas Avedisian
+  * Research focused on fuel droplet combustion assessment, including burning rate and soot production for surrogate gasoline, jet fuel, and renewable jet fuel.
 
 * Summer 2018: R&D Engineer
   * Honda Aircraft Company, Department of Advanced Research
-  * Evaluated one stability augmentation system, determined voting thresholds to ensure low false alarm rate.
-  * Improved the efficiency (+10\%) of data extraction and analysis by introducing a plotting framework.
-  * Investigated flight incidences, analyzed data and potential scenarios in offline and Hardware-In-Loop simulations.
+  * Evaluated a stability augmentation system and determined voting thresholds for low false-alarm rates.
+  * Improved data extraction and analysis efficiency by introducing a plotting framework.
+  * Investigated flight incidences using offline and hardware-in-the-loop simulation data.
 
 Skills
 ======
-* Computer Languages: Python, Cpp, Matlab
-* Physics Modeling and Simulation
-  * CFD, FEA
-  * Numerical Analysis
-* Engineering Basics
+* Computer Languages: Python, C++, MATLAB
+* Machine Learning and AI: physics-informed ML, graph neural networks, autoencoders, uncertainty quantification, optimization
+* Physics Modeling and Simulation: CFD, VLM, FEA, LES, design automation, multi-fidelity analysis
+* Engineering fundamentals: aerodynamics, numerical methods, finite element methods, combustion, soft robotics
 
 Publications
 ======
@@ -69,4 +96,7 @@ Teaching
   
 Service and leadership
 ======
-* At your service
+* Technical Committee Member, AIAA Multidisciplinary Design Optimization Technical Committee (2026-2027)
+* Reviewer: AIAA Journal, Communications Engineering, Aerospace Science and Technology, Materials & Design, Engineering Applications of Artificial Intelligence, Computer-Aided Design, ASME Journal of Computing and Information Science in Engineering, and conference tracks including AIAA Aviation 2026
+* Student research outreach: 2022 S.T. Yau High School Science Award mentoring and one-on-one research sessions with students on drone aerodynamics and morphing-wing design
+* Awards: Cornell Engineering Learning Initiatives undergraduate research grant, best team poster award, and artistic merit award
