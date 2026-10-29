@@ -26,16 +26,26 @@ Education
 
 Work experience
 ======
-* Oct. 2026 - present: Postdoctoral Researcher
-  * University of Washington, NSF AI Institute in Dynamic Systems
+* Oct. 2026 -- present: **University of Washington, NSF AI Institute in Dynamic Systems**
+  * **Postdoctoral Researcher**
   * Developing state-of-the-art benchmarks for coupled aerodynamic, structural, and control optimization.
 
-* Jul. 2026 - Sep. 2026: Postdoctoral Researcher
-  * Stanford University, Aerospace Design Lab
+* Jul. 2026 -- Sep. 2026: **Stanford University, Aerospace Design Lab**
+  * **Postdoctoral Researcher**
   * Metroplex Overflight Noise Analysis (MONA) departure noise analyst.
 
-* Jan. 2022 - Jun. 2026: Doctoral Researcher
-  * Stanford University, Aerospace Design Lab
+* Jun. 2025 -- Sep. 2025: **GE Aerospace Research, Probabilistic Design and Material Informatics**
+  * **Research Fellow**
+  * Proposed and developed a large-eddy simulation flow super-resolution program for improving low-order LES fields to high-order equivalents with credible integrated quantities of interest.
+  * Surveyed state-of-the-art physics-informed machine learning methods and integrated selected approaches into GE property software workflows.
+
+* Jun. 2023 -- Sep. 2023: **SRI International, Intelligent Systems Lab**
+  * **Research Intern**
+  * Composed a finite element analysis program for structural simulation using MITC4 shell elements.
+  * Integrated the FEA code with topology optimization heuristics for reinforcement fiber layout optimization applications.
+
+* Jan. 2022 -- Jun. 2026: **Stanford University, Aerospace Design Lab**
+  * **Doctoral Researcher**
   * Advisor: Prof. Juan J. Alonso
   * Research focuses on physics-informed machine learning, applied surrogate modeling, AI-driven design space exploration, automated design tools, and multi-fidelity analysis methods for sustainable unconventional vehicle development.
   * Developed VortexNet, a graph neural network-based multi-fidelity surrogate model that augments low-fidelity aerodynamic tools with high-fidelity CFD field data.
@@ -43,31 +53,21 @@ Work experience
   * Demonstrated the workflow in a stability-constrained aerodynamic shape optimization problem.
   * Contributor to the SCALOS project for supersonic configurations at low speeds, with emphasis on surrogate modeling, SST design space exploration, and planform optimization.
 
-* Jun. 2025 - Sep. 2025: Research Fellow
-  * GE Aerospace Research, Probabilistic Design and Material Informatics
-  * Proposed and developed a large-eddy simulation flow super-resolution program for improving low-order LES fields to high-order equivalents with credible integrated quantities of interest.
-  * Surveyed state-of-the-art physics-informed machine learning methods and integrated selected approaches into GE property software workflows.
-
-* Jun. 2023 - Sep. 2023: Research Intern
-  * SRI International, Intelligent Systems Lab
-  * Composed a finite element analysis program for structural simulation using MITC4 shell elements.
-  * Integrated the FEA code with topology optimization heuristics for reinforcement fiber layout optimization applications.
-
-* Aug. 2020 - Oct. 2021: Visiting Scholar
-  * Zhejiang University, Laboratory of Flexible Sensors and Intelligent Interaction
+* Aug. 2020 -- Oct. 2021: **Zhejiang University, Laboratory of Flexible Sensors and Intelligent Interaction**
+  * **Visiting Scholar**
   * Performed conformal mapping simulation for hyper-elastic soft sensor deployment on complex robot arm surfaces.
   * Proposed, designed, and simulated a soft hair-like flow sensor for small drone airspeed sensing.
 
-* Jan. 2015 - Jan. 2017: Research Assistant
-  * Cornell University, Thermal Science Lab
-  * Advised by Prof. C. Thomas Avedisian
-  * Research focused on fuel droplet combustion assessment, including burning rate and soot production for surrogate gasoline, jet fuel, and renewable jet fuel.
-
-* Summer 2018: R&D Engineer
-  * Honda Aircraft Company, Department of Advanced Research
+* Jun. 2018 -- Sep. 2018: **Honda Aircraft Company, Department of Advanced Research**
+  * **R&D Engineer**
   * Evaluated a stability augmentation system and determined voting thresholds for low false-alarm rates.
   * Improved data extraction and analysis efficiency by introducing a plotting framework.
   * Investigated flight incidences using offline and hardware-in-the-loop simulation data.
+
+* Jan. 2015 -- Jan. 2017: **Cornell University, Thermal Science Lab**
+  * **Research Assistant**
+  * Advised by Prof. C. Thomas Avedisian
+  * Research focused on fuel droplet combustion assessment, including burning rate and soot production for surrogate gasoline, jet fuel, and renewable jet fuel.
 
 Skills
 ======
