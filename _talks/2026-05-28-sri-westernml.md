@@ -1,8 +1,8 @@
 ---
 title: "Multi-Fidelity Aerodynamic Surrogate Modeling for Conceptual Design "
 collection: talks
-type: "Talk"
-permalink: /talks/2013-03-01-tutorial-1
+type: "Invited talk"
+permalink: /talks/2026-05-08-sri-westernml
 venue: "SRI International Western ML Seminar"
 date: 2026-05-28
 location: "Menlo Park, CA, USA"

@@ -1,8 +1,8 @@
 ---
 title: "Recent Advances in ML & Surrogate Modeling: Highlights from AIAA Meetings "
 collection: talks
-type: "Talk"
-permalink: /talks/2014-03-01-talk-3
+type: "Invited talk"
+permalink: /talks/2025-09-03-ge-learner
 venue: "GE Aerospace LearnER Seminar Series "
 date: 2025-09-03
 location: "Niskayuna, NY, USA"
