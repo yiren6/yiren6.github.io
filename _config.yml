@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "profile4.png"
   name             : "Yiren Shen"
-  pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate at Stanford AeroAstro. My research focuses on multi-objective optimization and applied surrogate modeling"
+  pronouns         : "he/him/his"
+  bio              : "Postdoctoral Researcher at University of Washington NSF AI institute in Dynamical Systems"
   location         : "Earth"
-  employer         : "Stanford University"
+  employer         : "University of Washington"
   uri              : # URL
   email            : "yrshen_at_stanford.edu" 
 
