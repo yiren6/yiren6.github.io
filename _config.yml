@@ -142,7 +142,11 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               : "gtm" # false, "gtm", "goatcounter", "google", "google-universal", "google-analytics-4", "custom"
+  gtm:
+    id                   : "GTM-N3K7K27X" # container; Analytics measurement id is G-NTSYLTMR7N
+  goatcounter:
+    code                 : "yiren" # https://yiren.goatcounter.com/count
   google:
     tracking_id          :
 
